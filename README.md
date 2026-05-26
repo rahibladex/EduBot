@@ -20,11 +20,11 @@ EduBot is an AI-powered desktop assistant built with Python that helps students 
 
 💻 Simple GUI Dashboard – Easy-to-use chat interface with quick-access buttons
 
-🧍‍♂️ Built by: Rahi (rahuljangra396)
+🧍‍♂️ Built by: Rahi (rahibladex)
 
 ⚙️ Installation & Setup
 1️⃣ Clone this Repository
-git clone https://github.com/rahuljangra396/EduBot.git
+git clone https://github.com/rahibladex/EduBot.git
 cd EduBot
 
 2️⃣ Install Required Libraries
@@ -100,6 +100,6 @@ Study progress tracking
 
 👨‍💻 Developer
 
-Made with ❤️ by Rahi (rahuljangra396)
+Made with ❤️ by Rahi (rahibladex)
 
 A Python + AI project for smart learning.
